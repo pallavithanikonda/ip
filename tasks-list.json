@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Bring food to home",
+      "project": "home",
+      "duedate": "2020-03-24",
+      "status": "open"
+    },
+    {
+      "id": "2",
+      "name": "Go to gym",
+      "project": "personal",
+      "duedate": "2020-03-24",
+      "status": "open"
+    }
+  ]
+}
